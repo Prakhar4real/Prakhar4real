@@ -39,19 +39,17 @@ Learning DSA, Development
 <a href="mailto:prakhar.dwivedi.7707@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge">
 </a>
-
+&nbsp;&nbsp;
 <a href="https://linkedin.com/in/workprakhardwivedi">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge">
 </a>
-
-</div>
-<div align="center">
-
-<a href="https://leetcode.com/u/Prakhar4real/">
+&nbsp;&nbsp;
+<a href="https://leetcode.com/Prakhar4real/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge">
 </a>
 
 </div>
+
 
 
 ---
