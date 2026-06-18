@@ -9,50 +9,37 @@
 
 ## About Me
 <div align="center">
-•	2nd Year B.Tech IT Student @ GCET
-•	Learning Full Stack Development 
-•	Solving DSA in Java (100+ on LeetCode)
-•	Interested in Software Engineering AI-assisted development
+•	2nd Year B.Tech IT Student @ GCET <br>
+•	Learning Full Stack Development <br>
+•	Solving DSA in Java (100+ on LeetCode)<br>
+•	Interested in Software Engineering AI-assisted development<br>
 </div>
 
 ---
 ## Currently Learning
 <div align="center">
-•	HTML & CSS
-•	JavaScript
-•	React Fundamentals
-•	Data Structures & Algorithms
+•	HTML & CSS <br>
+•	JavaScript <br>
+•	React Fundamentals <br>
+•	Data Structures & Algorithms <br>
 </div>
----
-
 ---
 ## Interests
 <div align="center">
-•	Full Stack Development
-•	Software Engineering
-•	AI-Assisted Product Development
-•	Building Real-World Applications
+•	Full Stack Development<br>
+•	Software Engineering<br>
+•	AI-Assisted Product Development<br>
+•	Building Real-World Applications<br>
 </div>
----
 
 ## Tech Stack
-
-### Languages
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
-</div>
-
-### Frontend
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
 </div>
-
----
 
 ## Connect With Me
 
