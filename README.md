@@ -13,6 +13,8 @@
 •	Learning Full Stack Development <br>
 •	Solving DSA in Java (100+ on LeetCode)<br>
 •	Interested in Software Engineering and AI-Assisted Development<br>
+•	Technical Team Member in GeeksForGeeks-Campus Body<br>
+
 </div>
 
 ---
