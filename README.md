@@ -8,7 +8,7 @@
 ---
 
 ## About Me
-<div align="center">
+<div align="left">
 •	2nd Year B.Tech IT Student @ GCET <br>
 •	Learning Full Stack Development <br>
 •	Solving DSA in Java (100+ on LeetCode)<br>
@@ -17,7 +17,7 @@
 
 ---
 ## Currently Learning
-<div align="center">
+<div align="left">
 •	HTML & CSS <br>
 •	JavaScript <br>
 •	React Fundamentals <br>
@@ -25,12 +25,13 @@
 </div>
 ---
 ## Interests
-<div align="center">
+<div align="left">
 •	Full Stack Development<br>
 •	Software Engineering<br>
 •	AI-Assisted Product Development<br>
 •	Building Real-World Applications<br>
 </div>
+---
 
 ## Tech Stack
 <div align="center">
