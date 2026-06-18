@@ -17,20 +17,29 @@
 
 ---
 ## Currently Learning
+
 <div align="left">
-•	HTML & CSS <br>
-•	JavaScript <br>
-•	React Fundamentals <br>
-•	Data Structures & Algorithms <br>
+
+• HTML & CSS <br>
+• JavaScript <br>
+• React Fundamentals <br>
+• Data Structures & Algorithms <br>
+
 </div>
+
 ---
+
 ## Interests
+
 <div align="left">
-•	Full Stack Development<br>
-•	Software Engineering<br>
-•	AI-Assisted Product Development<br>
-•	Building Real-World Applications<br>
+
+• Full Stack Development <br>
+• Software Engineering <br>
+• AI-Assisted Product Development <br>
+• Building Real-World Applications <br>
+
 </div>
+
 ---
 
 ## Tech Stack
