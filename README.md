@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm <span style="color:#9b59b6;">Prakhar Dwivedi</span></h1>
-<h3 align="center">B.Tech IT Student | Learning Full Stack Development | DSA in Java</h3>
+<h3 align="center">B.Tech IT Student | Learning Full Stack Development | 100+ LeetCode</h3>
 
 <div align="center">
   <img src="https://private-user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif" height="180" />
@@ -12,7 +12,7 @@
 •	2nd Year B.Tech IT Student @ GCET <br>
 •	Learning Full Stack Development <br>
 •	Solving DSA in Java (100+ on LeetCode)<br>
-•	Interested in Software Engineering AI-assisted development<br>
+•	Interested in Software Engineering and AI-Assisted Development<br>
 </div>
 
 ---
@@ -81,7 +81,7 @@
 
 ## Fun Fact  
 <div align="center">
-I once solved a bug by accident — my proudest achievement
+Most of my learning happens after I break something.
 </div>
 
 ---
