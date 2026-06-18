@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm <span style="color:#9b59b6;">Prakhar Dwivedi</span></h1>
-<h3 align="center">A nerd who loves tech and enjoys learning cool stuff</h3>
+<h3 align="center">B.Tech IT Student | Learning Full Stack Development | DSA in Java</h3>
 
 <div align="center">
   <img src="https://private-user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif" height="180" />
@@ -9,25 +9,47 @@
 
 ## About Me
 <div align="center">
-
-Undergrad @ GCET, Greater Noida | 
-Pursuing BTECH in IT | 
-Learning DSA, Development
-
+•	2nd Year B.Tech IT Student @ GCET
+•	Learning Full Stack Development 
+•	Solving DSA in Java (100+ on LeetCode)
+•	Interested in Software Engineering AI-assisted development
 </div>
 
 ---
+## Currently Learning
+<div align="center">
+•	HTML & CSS
+•	JavaScript
+•	React Fundamentals
+•	Data Structures & Algorithms
+</div>
+---
+
+---
+## Interests
+<div align="center">
+•	Full Stack Development
+•	Software Engineering
+•	AI-Assisted Product Development
+•	Building Real-World Applications
+</div>
+---
 
 ## Tech Stack
+
+### Languages
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+</div>
+
+### Frontend
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
 </div>
 
 ---
@@ -49,8 +71,6 @@ Learning DSA, Development
 </a>
 
 </div>
-
-
 
 ---
 
