@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm <span style="color:#9b59b6;">Prakhar Dwivedi</span></h1>
-<h3 align="center">B.Tech IT Student | Learning Full Stack Development | 100+ LeetCode</h3>
+<h3 align="center">A B.Tech IT Student who is learning Full Stack Development and has 100+ questions solved on LeetCode</h3>
 
 <div align="center">
   <img src="https://private-user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif" height="180" />
