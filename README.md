@@ -9,7 +9,7 @@
 
 ## About Me
 <div align="left">
-•	2nd Year B.Tech IT Student @ GCET <br>
+•	3nd Year B.Tech IT Student @ GCET <br>
 •	Learning Full Stack Development <br>
 •	Solving DSA in Java (100+ on LeetCode)<br>
 •	Interested in Software Engineering and AI-Assisted Development<br>
@@ -52,6 +52,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
+</div>
+
+---
+
+## Tools
+<br>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="47" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height="47" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="47" />
 </div>
 
 ---
