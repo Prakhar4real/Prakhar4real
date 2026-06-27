@@ -74,13 +74,6 @@
 
 ---
 
-## Snake Eating My Contributions  
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Prakhar4real/Prakhar4real/output/snake.svg" height="200">
-</div>
-
----
-
 ## Fun Fact  
 <div align="center">
 Most of my learning happens after I break something.
