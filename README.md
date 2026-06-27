@@ -54,6 +54,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
 </div>
 
+---
+
 ## Connect With Me
 
 <div align="center">
