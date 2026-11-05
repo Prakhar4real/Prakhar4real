@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm <span style="color:#9b59b6;">Prakhar Dwivedi</span></h1>
-<h3 align="center">A B.Tech IT Student who is learning Full Stack Development and has 100+ questions solved on LeetCode</h3>
+<h3 align="center">A B.Tech IT Student who is learning Full Stack Development and has 200+ questions solved on LeetCode</h3>
 
 <div align="center">
   <img src="https://private-user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif" height="180" />
@@ -9,11 +9,12 @@
 
 ## About Me
 <div align="left">
-•	3nd Year B.Tech IT Student @ GCET <br>
+•	3rd Year B.Tech IT Student @ GCET <br>
 •	Learning Full Stack Development <br>
-•	Solving DSA in Java (100+ on LeetCode)<br>
+•	Solving DSA in Java (200+ on LeetCode)<br>
 •	Interested in Software Engineering and AI-Assisted Development<br>
 •	Technical Team Member in GeeksForGeeks-Campus Body<br>
+•	Winner – Ideathon, EngiFest 2026 @ GCET<br>
 
 </div>
 
